@@ -1,0 +1,162 @@
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Setup\UILibrary.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Setup\UILibrary.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Setup\UILibrary.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Setup\UILibrary.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Setup\UILibrary.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Setup\UILibrary.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+F:\jxd\fish\src\FishSolution\Setup\UILibrary.dll
+F:\jxd\fish\src\FishSolution\Setup\UILibrary.pdb
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+F:\jxd\fish\src\FishSolution\UILibrary\obj\Debug\UILibrary.pdb
+D:\练习\项目源码\FishSolution\Setup\UILibrary.dll
+D:\练习\项目源码\FishSolution\Setup\UILibrary.pdb
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+D:\练习\项目源码\FishSolution\UILibrary\obj\Debug\UILibrary.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\Setup\UILibrary.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Setup\UILibrary.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\UILibrary\obj\Debug\UILibrary.pdb
+C:\Users\Administrator\Desktop\FishSolution\Setup\UILibrary.dll
+C:\Users\Administrator\Desktop\FishSolution\Setup\UILibrary.pdb
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.PresaleRControlSGS.resources
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+C:\Users\Administrator\Desktop\FishSolution\UILibrary\obj\Debug\UILibrary.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Setup\UILibrary.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Setup\UILibrary.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.PresaleRControlSGS.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.pdb
+D:\练习\FishSolution\FishSolution\Setup\UILibrary.dll
+D:\练习\FishSolution\FishSolution\Setup\UILibrary.pdb
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.PresaleRControlSGS.resources
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+D:\练习\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.pdb
+D:\练习\FishSolution\Setup\UILibrary.dll
+D:\练习\FishSolution\Setup\UILibrary.pdb
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.PresaleRControlSGS.resources
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+D:\练习\FishSolution\UILibrary\obj\Debug\UILibrary.pdb
+D:\练习\FishSolution - 副本\Setup\UILibrary.dll
+D:\练习\FishSolution - 副本\Setup\UILibrary.pdb
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.PresaleRControlSGS.resources
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.TCButton.resources
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.dll
+D:\练习\FishSolution - 副本\UILibrary\obj\Debug\UILibrary.pdb
+D:\Project data\FishSolution\FishSolution\Setup\UILibrary.dll
+D:\Project data\FishSolution\FishSolution\Setup\UILibrary.pdb
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.csprojResolveAssemblyReference.cache
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.AvatarControl.resources
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.CheckBoxComboBox.PopupComboBox.resources
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.PresaleRControlSGS.resources
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.SkinTextBox.resources
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.Properties.Resources.resources
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.TCButton.resources
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.UserDropDownControl.UserInfoControl.resources
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.WaitControl.resources
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.csproj.GenerateResource.Cache
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.dll
+D:\Project data\FishSolution\FishSolution\UILibrary\obj\Debug\UILibrary.pdb

@@ -1,0 +1,318 @@
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.Form1.resources
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.Properties.Resources.resources
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\Test.exe
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\Test.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\FishBll.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\FishEntity.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\Utility.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\Newtonsoft.Json.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\FishBll.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\FishEntity.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\Utility.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.exe
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.exe
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\Test.exe
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\Test.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\FishBll.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\FishEntity.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\MySql.Data.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\Utility.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\Newtonsoft.Json.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\FishBll.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\FishEntity.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\Utility.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.Form1.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.Properties.Resources.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\obj\Debug\Test.Form1.resources
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\obj\Debug\Test.Properties.Resources.resources
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\obj\Debug\Test.exe
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\obj\Debug\Test.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\Test.exe
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\Test.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\FishBll.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\FishEntity.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\Utility.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\Newtonsoft.Json.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\FishBll.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\FishEntity.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\Utility.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\BSE.Windows.Forms.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\UILibrary.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Test\bin\Debug\UILibrary.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\BSE.Windows.Forms.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\UILibrary.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\UILibrary.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\SkinForm.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\SkinForm.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\BSE.Windows.Forms.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\SkinForm.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\UILibrary.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\SkinForm.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\UILibrary.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.OOXML.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.xml
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.OOXML.xml
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.xml
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.Form2.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.OOXML.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.xml
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.OOXML.xml
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.xml
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Test\obj\Debug\Test.Form2.resources
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\Test.exe
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\Test.pdb
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\BSE.Windows.Forms.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\FishBll.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\FishEntity.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\NPOI.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\NPOI.OOXML.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\SkinForm.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\UILibrary.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\Utility.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\MySql.Data.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\Newtonsoft.Json.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\FishBll.pdb
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\FishEntity.pdb
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\SkinForm.pdb
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\UILibrary.pdb
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\Utility.pdb
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\NPOI.xml
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\NPOI.OOXML.xml
+F:\jxd\fish\src\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.xml
+F:\jxd\fish\src\FishSolution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\jxd\fish\src\FishSolution\Test\obj\Debug\Test.Form1.resources
+F:\jxd\fish\src\FishSolution\Test\obj\Debug\Test.Form2.resources
+F:\jxd\fish\src\FishSolution\Test\obj\Debug\Test.Properties.Resources.resources
+F:\jxd\fish\src\FishSolution\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\jxd\fish\src\FishSolution\Test\obj\Debug\Test.exe
+F:\jxd\fish\src\FishSolution\Test\obj\Debug\Test.pdb
+D:\练习\项目源码\FishSolution\Test\bin\Debug\Test.exe
+D:\练习\项目源码\FishSolution\Test\bin\Debug\Test.pdb
+D:\练习\项目源码\FishSolution\Test\bin\Debug\BSE.Windows.Forms.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\FishBll.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\FishEntity.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\NPOI.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\NPOI.OOXML.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\SkinForm.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\UILibrary.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\Utility.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\MySql.Data.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\Newtonsoft.Json.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\练习\项目源码\FishSolution\Test\bin\Debug\NPOI.xml
+D:\练习\项目源码\FishSolution\Test\bin\Debug\NPOI.OOXML.xml
+D:\练习\项目源码\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.xml
+D:\练习\项目源码\FishSolution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\练习\项目源码\FishSolution\Test\obj\Debug\Test.Form1.resources
+D:\练习\项目源码\FishSolution\Test\obj\Debug\Test.Form2.resources
+D:\练习\项目源码\FishSolution\Test\obj\Debug\Test.Properties.Resources.resources
+D:\练习\项目源码\FishSolution\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\练习\项目源码\FishSolution\Test\obj\Debug\Test.exe
+D:\练习\项目源码\FishSolution\Test\obj\Debug\Test.pdb
+D:\练习\项目源码\FishSolution\Test\bin\Debug\FishBll.pdb
+D:\练习\项目源码\FishSolution\Test\bin\Debug\FishEntity.pdb
+D:\练习\项目源码\FishSolution\Test\bin\Debug\SkinForm.pdb
+D:\练习\项目源码\FishSolution\Test\bin\Debug\UILibrary.pdb
+D:\练习\项目源码\FishSolution\Test\bin\Debug\Utility.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\Test.exe
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\Test.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\BSE.Windows.Forms.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\FishBll.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\FishEntity.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\NPOI.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\NPOI.OOXML.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\SkinForm.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\UILibrary.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\Utility.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\MySql.Data.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\Newtonsoft.Json.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\FishBll.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\SkinForm.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\Utility.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\NPOI.xml
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\NPOI.OOXML.xml
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.xml
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\obj\Debug\Test.Form1.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\obj\Debug\Test.Form2.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\obj\Debug\Test.Properties.Resources.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\obj\Debug\Test.exe
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\obj\Debug\Test.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\FishEntity.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\Test\bin\Debug\UILibrary.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\Test.exe
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\Test.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\BSE.Windows.Forms.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\FishBll.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\FishEntity.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\NPOI.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\NPOI.OOXML.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\SkinForm.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\UILibrary.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\Utility.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\MySql.Data.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\Newtonsoft.Json.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\FishBll.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\FishEntity.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\SkinForm.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\UILibrary.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\Utility.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\NPOI.xml
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\NPOI.OOXML.xml
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.xml
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\obj\Debug\Test.Form1.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\obj\Debug\Test.Form2.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\obj\Debug\Test.Properties.Resources.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\obj\Debug\Test.exe
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Test\obj\Debug\Test.pdb
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\Test.exe
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\Test.pdb
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\BSE.Windows.Forms.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\FishBll.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\FishEntity.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\NPOI.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\NPOI.OOXML.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\SkinForm.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\UILibrary.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\Utility.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\MySql.Data.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\Newtonsoft.Json.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\FishBll.pdb
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\FishEntity.pdb
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\SkinForm.pdb
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\UILibrary.pdb
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\Utility.pdb
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\NPOI.xml
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\NPOI.OOXML.xml
+D:\练习\FishSolution\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.xml
+D:\练习\FishSolution\FishSolution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution\FishSolution\Test\obj\Debug\Test.Form1.resources
+D:\练习\FishSolution\FishSolution\Test\obj\Debug\Test.Form2.resources
+D:\练习\FishSolution\FishSolution\Test\obj\Debug\Test.Properties.Resources.resources
+D:\练习\FishSolution\FishSolution\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\练习\FishSolution\FishSolution\Test\obj\Debug\Test.exe
+D:\练习\FishSolution\FishSolution\Test\obj\Debug\Test.pdb
+D:\练习\FishSolution\Test\bin\Debug\Test.exe
+D:\练习\FishSolution\Test\bin\Debug\Test.pdb
+D:\练习\FishSolution\Test\bin\Debug\BSE.Windows.Forms.dll
+D:\练习\FishSolution\Test\bin\Debug\FishBll.dll
+D:\练习\FishSolution\Test\bin\Debug\FishEntity.dll
+D:\练习\FishSolution\Test\bin\Debug\NPOI.dll
+D:\练习\FishSolution\Test\bin\Debug\NPOI.OOXML.dll
+D:\练习\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.dll
+D:\练习\FishSolution\Test\bin\Debug\SkinForm.dll
+D:\练习\FishSolution\Test\bin\Debug\UILibrary.dll
+D:\练习\FishSolution\Test\bin\Debug\Utility.dll
+D:\练习\FishSolution\Test\bin\Debug\MySql.Data.dll
+D:\练习\FishSolution\Test\bin\Debug\Newtonsoft.Json.dll
+D:\练习\FishSolution\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\练习\FishSolution\Test\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\练习\FishSolution\Test\bin\Debug\NPOI.xml
+D:\练习\FishSolution\Test\bin\Debug\NPOI.OOXML.xml
+D:\练习\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.xml
+D:\练习\FishSolution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution\Test\obj\Debug\Test.Form1.resources
+D:\练习\FishSolution\Test\obj\Debug\Test.Form2.resources
+D:\练习\FishSolution\Test\obj\Debug\Test.Properties.Resources.resources
+D:\练习\FishSolution\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\练习\FishSolution\Test\obj\Debug\Test.exe
+D:\练习\FishSolution\Test\obj\Debug\Test.pdb
+D:\练习\FishSolution - 副本\Test\bin\Debug\Test.exe
+D:\练习\FishSolution - 副本\Test\bin\Debug\Test.pdb
+D:\练习\FishSolution - 副本\Test\bin\Debug\BSE.Windows.Forms.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\FishBll.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\FishEntity.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\NPOI.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\NPOI.OOXML.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\NPOI.OpenXml4Net.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\SkinForm.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\UILibrary.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\Utility.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\MySql.Data.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\Newtonsoft.Json.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\练习\FishSolution - 副本\Test\bin\Debug\NPOI.xml
+D:\练习\FishSolution - 副本\Test\bin\Debug\NPOI.OOXML.xml
+D:\练习\FishSolution - 副本\Test\bin\Debug\NPOI.OpenXml4Net.xml
+D:\练习\FishSolution - 副本\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution - 副本\Test\obj\Debug\Test.Form1.resources
+D:\练习\FishSolution - 副本\Test\obj\Debug\Test.Form2.resources
+D:\练习\FishSolution - 副本\Test\obj\Debug\Test.Properties.Resources.resources
+D:\练习\FishSolution - 副本\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\练习\FishSolution - 副本\Test\obj\Debug\Test.exe
+D:\练习\FishSolution - 副本\Test\obj\Debug\Test.pdb
+D:\练习\FishSolution - 副本\Test\bin\Debug\FishBll.pdb
+D:\练习\FishSolution - 副本\Test\bin\Debug\FishEntity.pdb
+D:\练习\FishSolution - 副本\Test\bin\Debug\SkinForm.pdb
+D:\练习\FishSolution - 副本\Test\bin\Debug\UILibrary.pdb
+D:\练习\FishSolution - 副本\Test\bin\Debug\Utility.pdb
+D:\练习\FishSolution\Test\bin\Debug\FishBll.pdb
+D:\练习\FishSolution\Test\bin\Debug\UILibrary.pdb
+D:\练习\FishSolution\Test\bin\Debug\FishEntity.pdb
+D:\练习\FishSolution\Test\bin\Debug\SkinForm.pdb
+D:\练习\FishSolution\Test\bin\Debug\Utility.pdb
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\Test.exe
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\Test.pdb
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\BSE.Windows.Forms.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\FishBll.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\FishEntity.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\NPOI.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\NPOI.OOXML.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\SkinForm.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\UILibrary.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\Utility.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\MySql.Data.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\Newtonsoft.Json.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\FishBll.pdb
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\FishEntity.pdb
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\SkinForm.pdb
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\UILibrary.pdb
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\Utility.pdb
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\NPOI.xml
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\NPOI.OOXML.xml
+D:\Project data\FishSolution\FishSolution\Test\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Project data\FishSolution\FishSolution\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Project data\FishSolution\FishSolution\Test\obj\Debug\Test.Form1.resources
+D:\Project data\FishSolution\FishSolution\Test\obj\Debug\Test.Form2.resources
+D:\Project data\FishSolution\FishSolution\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Project data\FishSolution\FishSolution\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Project data\FishSolution\FishSolution\Test\obj\Debug\Test.exe
+D:\Project data\FishSolution\FishSolution\Test\obj\Debug\Test.pdb

@@ -1,0 +1,68 @@
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\bin\Debug\FishBll.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\bin\Debug\FishBll.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\bin\Debug\Utility.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\bin\Debug\Newtonsoft.Json.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\bin\Debug\Utility.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\obj\Debug\FishBll.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\obj\Debug\FishBll.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\bin\Debug\FishEntity.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishBLL\bin\Debug\FishEntity.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Setup\FishBll.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Setup\FishBll.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Setup\FishBll.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Setup\FishBll.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\FishBLL\obj\Debug\FishBll.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\FishBLL\obj\Debug\FishBll.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Setup\FishBll.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Setup\FishBll.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\FishBLL\obj\Debug\FishBll.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\FishBLL\obj\Debug\FishBll.pdb
+F:\jxd\fish\src\FishSolution\Setup\FishBll.dll
+F:\jxd\fish\src\FishSolution\Setup\FishBll.pdb
+F:\jxd\fish\src\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+F:\jxd\fish\src\FishSolution\FishBLL\obj\Debug\FishBll.dll
+F:\jxd\fish\src\FishSolution\FishBLL\obj\Debug\FishBll.pdb
+D:\练习\项目源码\FishSolution\Setup\FishBll.dll
+D:\练习\项目源码\FishSolution\Setup\FishBll.pdb
+D:\练习\项目源码\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+D:\练习\项目源码\FishSolution\FishBLL\obj\Debug\FishBll.dll
+D:\练习\项目源码\FishSolution\FishBLL\obj\Debug\FishBll.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\Setup\FishBll.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Setup\FishBll.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+D:\练习\项目源码 - 副本 (3)\FishSolution\FishBLL\obj\Debug\FishBll.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\FishBLL\obj\Debug\FishBll.pdb
+C:\Users\Administrator\Desktop\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FishSolution\Setup\FishBll.dll
+C:\Users\Administrator\Desktop\FishSolution\Setup\FishBll.pdb
+C:\Users\Administrator\Desktop\FishSolution\FishBLL\obj\Debug\FishBll.dll
+C:\Users\Administrator\Desktop\FishSolution\FishBLL\obj\Debug\FishBll.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Setup\FishBll.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Setup\FishBll.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\FishBLL\obj\Debug\FishBll.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\FishBLL\obj\Debug\FishBll.pdb
+D:\练习\FishSolution\FishSolution\Setup\FishBll.dll
+D:\练习\FishSolution\FishSolution\Setup\FishBll.pdb
+D:\练习\FishSolution\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution\FishSolution\FishBLL\obj\Debug\FishBll.dll
+D:\练习\FishSolution\FishSolution\FishBLL\obj\Debug\FishBll.pdb
+D:\练习\FishSolution\Setup\FishBll.dll
+D:\练习\FishSolution\Setup\FishBll.pdb
+D:\练习\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution\FishBLL\obj\Debug\FishBll.dll
+D:\练习\FishSolution\FishBLL\obj\Debug\FishBll.pdb
+D:\练习\FishSolution - 副本\Setup\FishBll.dll
+D:\练习\FishSolution - 副本\Setup\FishBll.pdb
+D:\练习\FishSolution - 副本\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution - 副本\FishBLL\obj\Debug\FishBll.dll
+D:\练习\FishSolution - 副本\FishBLL\obj\Debug\FishBll.pdb
+D:\Project data\FishSolution\FishSolution\Setup\FishBll.dll
+D:\Project data\FishSolution\FishSolution\Setup\FishBll.pdb
+D:\Project data\FishSolution\FishSolution\FishBLL\obj\Debug\FishBll.csprojResolveAssemblyReference.cache
+D:\Project data\FishSolution\FishSolution\FishBLL\obj\Debug\FishBll.dll
+D:\Project data\FishSolution\FishSolution\FishBLL\obj\Debug\FishBll.pdb

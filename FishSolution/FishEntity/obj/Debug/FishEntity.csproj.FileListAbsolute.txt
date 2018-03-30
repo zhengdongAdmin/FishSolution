@@ -1,0 +1,56 @@
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishEntity\bin\Debug\FishEntity.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishEntity\bin\Debug\FishEntity.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\FishEntity\obj\Debug\FishEntity.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Setup\FishEntity.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Setup\FishEntity.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Setup\FishEntity.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Setup\FishEntity.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\FishEntity\obj\Debug\FishEntity.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Setup\FishEntity.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Setup\FishEntity.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\FishEntity\obj\Debug\FishEntity.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\FishEntity\obj\Debug\FishEntity.csprojResolveAssemblyReference.cache
+F:\jxd\fish\src\FishSolution\FishEntity\obj\Debug\FishEntity.csprojResolveAssemblyReference.cache
+F:\jxd\fish\src\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+F:\jxd\fish\src\FishSolution\Setup\FishEntity.dll
+F:\jxd\fish\src\FishSolution\Setup\FishEntity.pdb
+F:\jxd\fish\src\FishSolution\FishEntity\obj\Debug\FishEntity.pdb
+D:\练习\项目源码\FishSolution\Setup\FishEntity.dll
+D:\练习\项目源码\FishSolution\Setup\FishEntity.pdb
+D:\练习\项目源码\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+D:\练习\项目源码\FishSolution\FishEntity\obj\Debug\FishEntity.pdb
+D:\练习\项目源码\FishSolution\FishEntity\obj\Debug\FishEntity.csprojResolveAssemblyReference.cache
+D:\练习\项目源码 - 副本 (3)\FishSolution\Setup\FishEntity.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Setup\FishEntity.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\FishEntity\obj\Debug\FishEntity.pdb
+C:\Users\Administrator\Desktop\FishSolution\Setup\FishEntity.dll
+C:\Users\Administrator\Desktop\FishSolution\Setup\FishEntity.pdb
+C:\Users\Administrator\Desktop\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+C:\Users\Administrator\Desktop\FishSolution\FishEntity\obj\Debug\FishEntity.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Setup\FishEntity.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Setup\FishEntity.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\FishEntity\obj\Debug\FishEntity.csprojResolveAssemblyReference.cache
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\FishEntity\obj\Debug\FishEntity.pdb
+D:\练习\FishSolution\FishSolution\Setup\FishEntity.dll
+D:\练习\FishSolution\FishSolution\Setup\FishEntity.pdb
+D:\练习\FishSolution\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+D:\练习\FishSolution\FishSolution\FishEntity\obj\Debug\FishEntity.pdb
+D:\练习\FishSolution\FishSolution\FishEntity\obj\Debug\FishEntity.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution\Setup\FishEntity.dll
+D:\练习\FishSolution\Setup\FishEntity.pdb
+D:\练习\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+D:\练习\FishSolution\FishEntity\obj\Debug\FishEntity.pdb
+D:\练习\FishSolution - 副本\Setup\FishEntity.dll
+D:\练习\FishSolution - 副本\FishEntity\obj\Debug\FishEntity.dll
+D:\练习\FishSolution - 副本\FishEntity\obj\Debug\FishEntity.pdb
+D:\练习\FishSolution - 副本\Setup\FishEntity.pdb
+D:\练习\FishSolution\FishEntity\obj\Debug\FishEntity.csprojResolveAssemblyReference.cache
+D:\Project data\FishSolution\FishSolution\Setup\FishEntity.dll
+D:\Project data\FishSolution\FishSolution\Setup\FishEntity.pdb
+D:\Project data\FishSolution\FishSolution\FishEntity\obj\Debug\FishEntity.dll
+D:\Project data\FishSolution\FishSolution\FishEntity\obj\Debug\FishEntity.pdb

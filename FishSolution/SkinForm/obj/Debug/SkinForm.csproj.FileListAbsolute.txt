@@ -1,0 +1,73 @@
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Setup\SkinForm.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\Setup\SkinForm.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.dll
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.pdb
+E:\jinxiangdong\person\Project\FishManageMS\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Setup\SkinForm.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\Setup\SkinForm.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.dll
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Setup\SkinForm.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\Setup\SkinForm.pdb
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.dll
+E:\jxd\My\FishManageMS20150308\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.pdb
+E:\MyJob\Person\Project\FishManageMS\SRC\FishSolution\SkinForm\obj\Debug\SkinForm.csprojResolveAssemblyReference.cache
+D:\练习\项目源码\FishSolution\Setup\SkinForm.dll
+D:\练习\项目源码\FishSolution\Setup\SkinForm.pdb
+D:\练习\项目源码\FishSolution\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+D:\练习\项目源码\FishSolution\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+D:\练习\项目源码\FishSolution\SkinForm\obj\Debug\SkinForm.dll
+D:\练习\项目源码\FishSolution\SkinForm\obj\Debug\SkinForm.pdb
+D:\练习\项目源码\FishSolution\SkinForm\obj\Debug\SkinForm.csprojResolveAssemblyReference.cache
+D:\练习\项目源码 - 副本 (3)\FishSolution\Setup\SkinForm.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\Setup\SkinForm.pdb
+D:\练习\项目源码 - 副本 (3)\FishSolution\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+D:\练习\项目源码 - 副本 (3)\FishSolution\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+D:\练习\项目源码 - 副本 (3)\FishSolution\SkinForm\obj\Debug\SkinForm.dll
+D:\练习\项目源码 - 副本 (3)\FishSolution\SkinForm\obj\Debug\SkinForm.pdb
+C:\Users\Administrator\Desktop\FishSolution\Setup\SkinForm.dll
+C:\Users\Administrator\Desktop\FishSolution\Setup\SkinForm.pdb
+C:\Users\Administrator\Desktop\FishSolution\SkinForm\obj\Debug\SkinForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FishSolution\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+C:\Users\Administrator\Desktop\FishSolution\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FishSolution\SkinForm\obj\Debug\SkinForm.dll
+C:\Users\Administrator\Desktop\FishSolution\SkinForm\obj\Debug\SkinForm.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Setup\SkinForm.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\Setup\SkinForm.pdb
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.csprojResolveAssemblyReference.cache
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.dll
+E:\QQ文档\1257122541\FileRecv\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.pdb
+D:\练习\FishSolution\FishSolution\Setup\SkinForm.dll
+D:\练习\FishSolution\FishSolution\Setup\SkinForm.pdb
+D:\练习\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+D:\练习\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+D:\练习\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.dll
+D:\练习\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.pdb
+D:\练习\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.csprojResolveAssemblyReference.cache
+D:\练习\FishSolution\Setup\SkinForm.dll
+D:\练习\FishSolution\Setup\SkinForm.pdb
+D:\练习\FishSolution\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+D:\练习\FishSolution\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+D:\练习\FishSolution\SkinForm\obj\Debug\SkinForm.dll
+D:\练习\FishSolution\SkinForm\obj\Debug\SkinForm.pdb
+D:\练习\FishSolution - 副本\Setup\SkinForm.dll
+D:\练习\FishSolution - 副本\Setup\SkinForm.pdb
+D:\练习\FishSolution - 副本\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+D:\练习\FishSolution - 副本\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+D:\练习\FishSolution - 副本\SkinForm\obj\Debug\SkinForm.dll
+D:\练习\FishSolution - 副本\SkinForm\obj\Debug\SkinForm.pdb
+D:\练习\FishSolution\SkinForm\obj\Debug\SkinForm.csprojResolveAssemblyReference.cache
+D:\Project data\FishSolution\FishSolution\Setup\SkinForm.dll
+D:\Project data\FishSolution\FishSolution\Setup\SkinForm.pdb
+D:\Project data\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.csprojResolveAssemblyReference.cache
+D:\Project data\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.SkinPictureForm.resources
+D:\Project data\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.csproj.GenerateResource.Cache
+D:\Project data\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.dll
+D:\Project data\FishSolution\FishSolution\SkinForm\obj\Debug\SkinForm.pdb
